@@ -1,0 +1,4 @@
+ .player { color : #00FF00; }
+ .enemy { color : #FF3333; }
+ .item { color :  #0099FF; }
+ .friendly { color : #99CC00; }

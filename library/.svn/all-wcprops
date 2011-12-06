@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/281/UAMUD/trunk/UAMUD/src/library
+END
+ItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/205/UAMUD/trunk/UAMUD/src/library/ItemType.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/273/UAMUD/trunk/UAMUD/src/library/Client.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/236/UAMUD/trunk/UAMUD/src/library/User.java
+END
+Character.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/258/UAMUD/trunk/UAMUD/src/library/Character.java
+END
+MobAdjective.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/240/UAMUD/trunk/UAMUD/src/library/MobAdjective.java
+END
+NumberDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/179/UAMUD/trunk/UAMUD/src/library/NumberDocument.java
+END
+Mob.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/273/UAMUD/trunk/UAMUD/src/library/Mob.java
+END
+NonPlayerCharacterClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/276/UAMUD/trunk/UAMUD/src/library/NonPlayerCharacterClass.java
+END
+Inventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/198/UAMUD/trunk/UAMUD/src/library/Inventory.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/259/UAMUD/trunk/UAMUD/src/library/Room.java
+END
+NonPlayerCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/276/UAMUD/trunk/UAMUD/src/library/NonPlayerCharacter.java
+END
+DatabaseObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/236/UAMUD/trunk/UAMUD/src/library/DatabaseObject.java
+END
+DatabaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/281/UAMUD/trunk/UAMUD/src/library/DatabaseConnection.java
+END
+MobClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/276/UAMUD/trunk/UAMUD/src/library/MobClass.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/213/UAMUD/trunk/UAMUD/src/library/Item.java
+END
+ClassType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/262/UAMUD/trunk/UAMUD/src/library/ClassType.java
+END
+Effect.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/a/eclipselabs.org/cs335f2010-eddy-novak/!svn/ver/274/UAMUD/trunk/UAMUD/src/library/Effect.java
+END
